@@ -10,6 +10,5 @@
 
 
   Want to contact me? I’d love to hear from you
-
-
-   ✉️  contact@hadi-nsreeny.com
+  
+  📧  contact@hadi-nsreeny.com
